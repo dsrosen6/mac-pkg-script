@@ -14,4 +14,6 @@ Then, just `chmod +x` your script and run it in the directory your `Payload` and
 #### Quick Download to Current Directory
 You can run the following to quickly download this script into your current directory for use in your projects. I have it set as an alias in my `.zshrc`:
 
-```curl -O https://raw.githubusercontent.com/dsrosen6/mac-pkg-script/refs/heads/main/create_package.sh && chmod +x create_package.sh```
+```
+curl -O https://raw.githubusercontent.com/dsrosen6/mac-pkg-script/refs/heads/main/create_package.sh && chmod +x create_package.sh
+```
